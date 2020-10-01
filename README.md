@@ -17,7 +17,7 @@ pip install -U wheel
 ```
 
 ## installation
-install package. one can find the releases [here](https://github.com/GreenClothaWay/Blog/tree/master/release) 
+install the package. one can find the releases [here](https://github.com/GreenClothaWay/Blog/tree/master/release) 
 ```
 pip install greenclothaway-<release_version>-py3-none-any.whl
 ```
@@ -44,7 +44,7 @@ manage.py createsuperuser
 ```
 the manage.py command will be available in your virtual environment after the installation.
 
-now youre all set to turn on your testserver on localhost
+now you are all set to turn on your testserver on localhost
 
 ```
 manage.py runserver
@@ -52,5 +52,5 @@ manage.py runserver
 
 
 
-if you want to run this application on a productive server youll have to set up a webserver and configure it according to djangos how to.
+if you want to run this application on a productive server you'll have to set up a webserver and configure it according to djangos how to.
 but thats on you dude!
